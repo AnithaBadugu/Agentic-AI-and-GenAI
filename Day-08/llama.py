@@ -1,5 +1,7 @@
 # llama - example 1 
 
+First we need to create a folder named data -> upload a pdf file 
+
 
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from llama_index.llms.ollama import Ollama
