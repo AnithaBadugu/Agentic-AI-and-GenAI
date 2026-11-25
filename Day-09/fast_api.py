@@ -15,3 +15,4 @@ def hi(a:int, b:int):
 
 #http://127.0.0.1:8000/msg
 #http://127.0.0.1:8000/add?a=5&b=10
+#http://127.0.0.1:8000/docs
